@@ -1,0 +1,57 @@
+{
+  "name": "crazy-md",
+  "version": "1.0.0",
+  "description": "A modern WhatsApp bot using Baileys and TypeScript",
+  "main": "crazy.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CrazyPrince/DELTA-MD.git"
+  },
+  "types": "dist/crazy.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "start": "node crazy.js",
+    "dev": "tsc --watch",
+    "lint": "eslint 'src/**/*.ts'",
+    "format": "prettier --write 'src/**/*.ts'",
+    "test": "jest",
+    "prepare": "husky install"
+  },
+  "keywords": [
+    "whatsapp",
+    "bot",
+    "baileys",
+    "typescript"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "@hapi/boom": "^11.0.0",
+    "node-cache": "^5.1.2",
+    "open": "^9.0.0",
+    "readline-sync": "^1.4.10",
+    "libphonenumber-js": "^1.10.15",
+    "fs-extra": "^11.0.0",
+    "baileys": "git+https://github.com/adiwajshing/Baileys.git"
+  },
+  "devDependencies": {
+    "@types/node": "^20.4.0",
+    "@typescript-eslint/eslint-plugin": "^6.1.0",
+    "@typescript-eslint/parser": "^6.1.0",
+    "eslint": "^8.47.0",
+    "jest": "^29.0.0",
+    "prettier": "^3.0.0",
+    "ts-jest": "^29.0.0",
+    "ts-node": "^10.9.0",
+    "typescript": "^5.1.0",
+    "husky": "^8.0.0"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "npm run lint && npm run format"
+    }
+  }
+}
