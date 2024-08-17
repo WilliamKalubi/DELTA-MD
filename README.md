@@ -19,7 +19,7 @@ DELTA MD Multi fonctionnal is a whatsapp bot developed by <a href="https://githu
 <a href="https://github.com/CrazyPrince/DELTA-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/CrazyPrince/DELTA-MD?color=blue&style=flat-square"></a>
 <a href="https://github.com/CrazyPrince/DELTA-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/CrazyPrince/DELTA-MD?color=red&style=flat-square"></a>
 <a href="https://github.com/CrazyPrince/DELTA-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/CrazyPrince/DELTA-MD?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/CrazyPrince/DELTA-MD"><img title="Open Source" src="https://img.shields.io/badge/Author-Crazy%20Prince%20.-red?v=103"></a>
+<a href="https://github.com/CrazyPrince"><img title="Open Source" src="https://img.shields.io/badge/Author-Crazy%20Prince%20-red?v=103"></a>
 <a href="https://github.com/CrazyPrince/DELTA-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/CrazyPrince/DELTA-MD?style=flat-square&color=green"></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCrazyPrince%2FDELTA-MD&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
 <a href="https://github.com/CrazyPrince/DELTA-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
