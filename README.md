@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-DELTA MD Multi Device is a whatsapp bot developed by <a href="https://github.com/CrazyPrince" target="_blank">CrazyPrince</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star⭐️ bro.
+DELTA MD Multi fonctionnal is a whatsapp bot developed by <a href="https://github.com/CrazyPrince" target="_blank">CrazyPrince</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star⭐️ bro.
 </p>
 
 <p align="center">
