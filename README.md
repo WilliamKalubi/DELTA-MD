@@ -26,18 +26,18 @@ DELTA MD Multi fonctionnal is a whatsapp bot developed by <a href="https://githu
     </p>
 
 -------
-
-
-
-
-
-
-
-
-
-
-
-
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
 -------
 
 ## ```👑 Dev```
