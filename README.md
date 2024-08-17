@@ -6,12 +6,11 @@
 <p align="center">
 DELTA MD Multi fonctionnal is a whatsapp bot developed by <a href="https://github.com/CrazyPrince" target="_blank">CrazyPrince</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star⭐️ bro.
 </p>
+<p align="center">
+<a href="https://youtu.be/aidmubarak"><img title="Size" src="https://img.shields.io/badge/Tutorial-Video-green"></a>   
+</p>
 
 <p align="center">
-    <br>
-<a href="https://youtu.be/aidmubarak"><img title="Size" src="https://img.shields.io/badge/Tutorial-Video-green"></a>   
-    <br>
-        
 [![](https://visitcount.itsvg.in/api?id=CrazyPrince/DELTA-MD&icon=2&color=3)](https://visitcount.itsvg.in)
 </p>
 
