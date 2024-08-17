@@ -12,9 +12,6 @@ DELTA MD Multi fonctionnal is a whatsapp bot developed by <a href="https://githu
 </p>
 
 ------
-   <br>
-# ```Bot Info```
-   <br>
 <p align="center">
 <a href="https://github.com/CrazyPrince/followers"><img title="Followers" src="https://img.shields.io/github/followers/CrazyPrince?color=red&style=flat-square"></a>
 <a href="https://github.com/CrazyPrince/DELTA-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/CrazyPrince/DELTA-MD?color=blue&style=flat-square"></a>
