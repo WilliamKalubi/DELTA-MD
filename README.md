@@ -14,11 +14,11 @@ DELTA MD Multi fonctionnal is a whatsapp bot developed by <a href="https://githu
 
 </p>
 
-<p align="center">
-    
-[![](https://visitcount.itsvg.in/api?id=CrazyPrince/DELTA-MD&icon=2&color=3)](https://visitcount.itsvg.in)
-
-</p>
+<div align="center">
+  
+[![](https://visitcount.itsvg.in/api?id=CrazyPrince&icon=3&color=6)](https://visitcount.itsvg.in)
+  
+</div>
 
 ------
 <p align="center">
