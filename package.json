@@ -29,13 +29,13 @@
     "node": ">=18.0.0"
   },
   "dependencies": {
+    "@CrazyPrince/baileys": "latest",
     "@hapi/boom": "^9.1.4",
     "node-cache": "^5.1.2",
     "open": "^9.0.0",
     "readline-sync": "^1.4.10",
     "libphonenumber-js": "^1.10.15",
-    "fs-extra": "^11.2.0",
-    "baileys": "git+https://github.com/adiwajshing/Baileys.git"
+    "fs-extra": "^11.2.0"
   },
   "devDependencies": {
     "@types/node": "^20.4.0",
