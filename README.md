@@ -10,7 +10,7 @@ DELTA MD Multi fonctionnal is a whatsapp bot developed by <a href="https://githu
 <p align="center">
 <a href="https://youtu.be/aidmubarak"><img title="Size" src="https://img.shields.io/badge/Tutorial-Video-green"></a>
 
-[![](https://visitcount.itsvg.in/api?id=CrazyPrince&icon=3&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=CrazyPrince/DELTA-MD&icon=2&color=6)](https://visitcount.itsvg.in)
 </p>
 
 ------
