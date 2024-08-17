@@ -34,7 +34,7 @@
     "open": "^9.0.0",
     "readline-sync": "^1.4.10",
     "libphonenumber-js": "^1.10.15",
-    "fs-extra": "^11.0.0",
+    "fs-extra": "^11.2.0",
     "baileys": "git+https://github.com/adiwajshing/Baileys.git"
   },
   "devDependencies": {
