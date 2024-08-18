@@ -29,7 +29,7 @@
     "node": "^20.0.0"
   },
   "dependencies": {
-    "@CrazyPrince/baileys": "latest",
+    "@whiskeysockets/baileys": "github:CrazyPrince/baileys",
     "@hapi/boom": "^9.1.4",
     "node-cache": "^5.1.2",
     "open": "^9.0.0",
