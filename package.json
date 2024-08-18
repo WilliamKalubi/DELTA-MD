@@ -2,12 +2,12 @@
   "name": "crazy-md",
   "version": "1.0.0",
   "description": "A modern WhatsApp bot using Baileys and TypeScript",
-  "main": "dist/crazy.js",  // Pointage vers le fichier principal compilé
-  "types": "dist/crazy.d.ts",  // Types définis dans le dossier dist
+  "main": "dist/crazy.js",  
+  "types": "dist/crazy.d.ts",  
   "scripts": {
-    "build": "tsc",  // Compile le projet TypeScript
-    "start": "node dist/crazy.js",  // Pointage vers le fichier principal compilé
-    "dev": "tsc --watch",  // Mode développement
+    "build": "tsc",  
+    "start": "node dist/crazy.js",  
+    "dev": "tsc --watch",  
     "lint": "eslint 'src/**/*.ts'",
     "format": "prettier --write 'src/**/*.ts'",
     "test": "jest",
