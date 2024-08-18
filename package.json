@@ -2,16 +2,12 @@
   "name": "crazy-md",
   "version": "1.0.0",
   "description": "A modern WhatsApp bot using Baileys and TypeScript",
-  "main": "crazy.js",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/CrazyPrince/DELTA-MD.git"
-  },
-  "types": "dist/crazy.d.ts",
+  "main": "dist/crazy.js",  // Pointage vers le fichier principal compilé
+  "types": "dist/crazy.d.ts",  // Types définis dans le dossier dist
   "scripts": {
-    "build": "tsc",
-    "start": "node crazy.js",
-    "dev": "tsc --watch",
+    "build": "tsc",  // Compile le projet TypeScript
+    "start": "node dist/crazy.js",  // Pointage vers le fichier principal compilé
+    "dev": "tsc --watch",  // Mode développement
     "lint": "eslint 'src/**/*.ts'",
     "format": "prettier --write 'src/**/*.ts'",
     "test": "jest",
